@@ -1,0 +1,1173 @@
+{
+  "info": {
+    "version": "1.9.5", 
+    "appName": "starcal2"
+  }, 
+  "groups": [
+    {
+      "startJd": 625333, 
+      "showFullEventDesc": false, 
+      "enable": true, 
+      "title": "\u062a\u0627\u0631\u06cc\u062e \u0627\u06cc\u0631\u0627\u0646 \u067e\u06cc\u0634 \u0627\u0632 \u0627\u0633\u0644\u0627\u0645", 
+      "color": [
+        141, 
+        85, 
+        0
+      ], 
+      "endJd": 2451545, 
+      "eventCacheSize": 0, 
+      "eventTextSep": ": ", 
+      "calType": "gregorian", 
+      "type": "largeScale", 
+      "events": [
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "\u062a\u0627 \u06f2\u06f2\u06f2\u06f5 \u0642\u200d..\u0645. (\u0633\u0627\u0644 \u0634\u0631\u0648\u0639 \u0646\u0627\u0645\u0639\u0644\u0648\u0645)", 
+          "rules": [], 
+          "duration": 775.0, 
+          "modified": 1336337522.924277, 
+          "summary": "\u0633\u0648\u0645\u0631\u0647\u0627 \u0648 \u0627\u06a9\u0651\u0648\u06cc\u06cc\u200c\u0647\u0627", 
+          "start": -3000.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "gregorian", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 1480.0, 
+          "modified": 1336337816.196084, 
+          "summary": "\u0639\u06cc\u0644\u0627\u0645\u06cc\u200c\u0647\u0627", 
+          "start": -2225.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "gregorian", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 225.0, 
+          "modified": 1336339734.316846, 
+          "summary": "\u0622\u0633\u0648\u0631\u0647\u0627(\u0642\u0628\u0644 \u0627\u0632 \u0642\u062f\u0631\u062a)", 
+          "start": -970.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "gregorian", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 136.0, 
+          "modified": 1336339751.42936, 
+          "summary": "\u0645\u0627\u062f\u0647\u0627(\u0642\u0628\u0644 \u0627\u0632 \u0642\u062f\u0631\u062a)", 
+          "start": -837.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "gregorian", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 100.0, 
+          "modified": 1336337872.7802, 
+          "summary": "\u0639\u06cc\u0644\u0627\u0645\u06cc\u200c\u0647\u0627(\u0627\u062f\u0627\u0645\u0647\u0654 \u062d\u06cc\u0627\u062a \u067e\u0633 \u0627\u0632 \u0627\u0646\u0642\u0631\u0627\u0636)", 
+          "start": -745.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "gregorian", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 100.0, 
+          "modified": 1336338125.868517, 
+          "summary": "\u0622\u0633\u0648\u0631\u0647\u0627", 
+          "start": -745.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "gregorian", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 400.0, 
+          "modified": 1336338207.732495, 
+          "summary": "\u0647\u062e\u0627\u0645\u0646\u0634\u06cc\u0627\u0646(\u067e\u0627\u0631\u0633\u200c\u0647\u0627)", 
+          "start": -730.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "gregorian", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 151.0, 
+          "modified": 1336339594.941156, 
+          "summary": "\u0645\u0627\u062f\u0647\u0627", 
+          "start": -701.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "gregorian", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 4.0, 
+          "modified": 1336341096.644975, 
+          "summary": "\u0633\u0644\u0648\u06a9\u06cc\u0627\u0646(\u0642\u0628\u0644 \u0627\u0632 \u0642\u062f\u0631\u062a)", 
+          "start": -334.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "gregorian", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 201.0, 
+          "modified": 1336339834.877721, 
+          "summary": "\u0633\u0644\u0648\u06a9\u06cc\u0627\u0646(\u0645\u0642\u062f\u0648\u0646\u06cc\u200c\u0647\u0627)", 
+          "start": -330.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "gregorian", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 480.0, 
+          "modified": 1336341362.462215, 
+          "summary": "\u0627\u0634\u06a9\u0627\u0646\u06cc\u0627\u0646(\u067e\u0627\u0631\u062a\u200c\u0647\u0627)", 
+          "start": -256.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "gregorian", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 441.0, 
+          "modified": 1336341441.422421, 
+          "summary": "\u0633\u0627\u0633\u0627\u0646\u06cc\u0627\u0646", 
+          "start": 211.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "gregorian", 
+          "type": "largeScale", 
+          "icon": ""
+        }
+      ], 
+      "icon": ""
+    }, 
+    {
+      "startJd": 1948440, 
+      "showFullEventDesc": false, 
+      "enable": true, 
+      "title": "\u062a\u0627\u0631\u06cc\u062e \u0627\u0633\u0644\u0627\u0645", 
+      "color": [
+        255, 
+        0, 
+        176
+      ], 
+      "endJd": 2479636, 
+      "eventCacheSize": 0, 
+      "eventTextSep": ": ", 
+      "calType": "hijri", 
+      "type": "largeScale", 
+      "events": [
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "(\u0639\u0645\u0631: \u06f6\u06f4 \u0633\u0627\u0644 \u0642\u0645\u0631\u06cc \u0648 \u06f6\u06f1 \u0633\u0627\u0644 \u0634\u0645\u0633\u06cc)", 
+          "rules": [], 
+          "duration": 64.0, 
+          "modified": 1336342192.528286, 
+          "summary": "\u0632\u0646\u062f\u06af\u0627\u0646\u06cc \u0645\u062d\u0645\u062f (\u0635)", 
+          "start": -53.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 2.0, 
+          "modified": 1336342240.632477, 
+          "summary": "\u062e\u0644\u0627\u0641\u062a \u0627\u0628\u0648\u0628\u06a9\u0631", 
+          "start": 11.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 10.0, 
+          "modified": 1336342277.128766, 
+          "summary": "\u062e\u0644\u0627\u0641\u062a \u0639\u0645\u0631", 
+          "start": 13.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 12.0, 
+          "modified": 1336342302.640599, 
+          "summary": "\u062e\u0644\u0627\u0641\u062a \u0639\u062b\u0645\u0627\u0646", 
+          "start": 23.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 5.0, 
+          "modified": 1336342329.192966, 
+          "summary": "\u062e\u0644\u0627\u0641\u062a \u0639\u0644\u06cc (\u0639)", 
+          "start": 35.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 1.0, 
+          "modified": 1336342365.633083, 
+          "summary": "\u062e\u0644\u0627\u0641\u062a \u062d\u0633\u0646 \u0628\u0646 \u0639\u0644\u06cc (\u0639)", 
+          "start": 40.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 91.0, 
+          "modified": 1336342413.585224, 
+          "summary": "\u062e\u0644\u0641\u0627\u06cc \u0627\u0645\u0648\u06cc (\u0628\u0646\u06cc\u200c\u0627\u0645\u06cc\u0647)", 
+          "start": 41.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 524.0, 
+          "modified": 1336342450.48927, 
+          "summary": "\u062e\u0644\u0641\u0627\u06cc \u0639\u0628\u0627\u0633\u06cc (\u0628\u0646\u06cc\u200c\u0639\u0628\u0627\u0633)", 
+          "start": 132.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }
+      ], 
+      "icon": ""
+    }, 
+    {
+      "startJd": 1926830, 
+      "showFullEventDesc": false, 
+      "enable": true, 
+      "title": "\u062a\u0627\u0631\u06cc\u062e \u0627\u0633\u0644\u0627\u0645 - \u0632\u0646\u062f\u06af\u0627\u0646\u06cc \u0645\u0639\u0635\u0648\u0645\u06cc\u0646", 
+      "color": [
+        255, 
+        0, 
+        133
+      ], 
+      "endJd": 2444199, 
+      "eventCacheSize": 0, 
+      "eventTextSep": ": ", 
+      "calType": "hijri", 
+      "type": "lifeTime", 
+      "events": [
+        {
+          "remoteIds": null, 
+          "description": "", 
+          "rules": [
+            [
+              "start", 
+              {
+                "date": "-0008/06/20", 
+                "time": "05:55:26"
+              }
+            ], 
+            [
+              "end", 
+              {
+                "date": "0011/06/03", 
+                "time": "05:55:26"
+              }
+            ]
+          ], 
+          "modified": 1336785993.135575, 
+          "summary": "\u0632\u0646\u062f\u06af\u06cc \u062d\u0636\u0631\u062a \u0641\u0627\u0637\u0645\u0647 (\u0633)", 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "lifeTime", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "description": "", 
+          "rules": [
+            [
+              "start", 
+              {
+                "date": "0003/09/15", 
+                "time": "05:56:34"
+              }
+            ], 
+            [
+              "end", 
+              {
+                "date": "0050/02/28", 
+                "time": "05:56:34"
+              }
+            ]
+          ], 
+          "modified": 1336786057.519805, 
+          "summary": "\u0632\u0646\u062f\u06af\u0627\u0646\u06cc \u0627\u0645\u0627\u0645 \u062d\u0633\u0646 (\u0639)", 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "lifeTime", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "description": "", 
+          "rules": [
+            [
+              "start", 
+              {
+                "date": "0004/08/03", 
+                "time": "05:57:40"
+              }
+            ], 
+            [
+              "end", 
+              {
+                "date": "0061/01/10", 
+                "time": "05:57:40"
+              }
+            ]
+          ], 
+          "modified": 1336786111.031746, 
+          "summary": "\u0632\u0646\u062f\u06af\u0627\u0646\u06cc \u0627\u0645\u0627\u0645 \u062d\u0633\u06cc\u0646 (\u0639)", 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "lifeTime", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "description": "", 
+          "rules": [
+            [
+              "start", 
+              {
+                "date": "0039/05/15", 
+                "time": "06:01:24"
+              }
+            ], 
+            [
+              "end", 
+              {
+                "date": "0095/01/25", 
+                "time": "06:01:24"
+              }
+            ]
+          ], 
+          "modified": 1336786340.263894, 
+          "summary": "\u0632\u0646\u062f\u06af\u0627\u0646\u06cc \u0627\u0645\u0627\u0645 \u0632\u06cc\u0646\u200c\u0627\u0644\u0639\u0627\u0628\u062f\u06cc\u0646", 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "lifeTime", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "description": "", 
+          "rules": [
+            [
+              "start", 
+              {
+                "date": "0057/07/01", 
+                "time": "06:02:22"
+              }
+            ], 
+            [
+              "end", 
+              {
+                "date": "0114/12/07", 
+                "time": "06:02:22"
+              }
+            ]
+          ], 
+          "modified": 1336786403.887929, 
+          "summary": "\u0632\u0646\u062f\u06af\u0627\u0646\u06cc \u0627\u0645\u0627\u0645 \u0645\u062d\u0645\u062f \u0628\u0627\u0642\u0631", 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "lifeTime", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "description": "", 
+          "rules": [
+            [
+              "start", 
+              {
+                "date": "0083/03/17", 
+                "time": "06:03:25"
+              }
+            ], 
+            [
+              "end", 
+              {
+                "date": "0148/10/25", 
+                "time": "06:03:25"
+              }
+            ]
+          ], 
+          "modified": 1336786483.584241, 
+          "summary": "\u0632\u0646\u062f\u06af\u0627\u0646\u06cc \u0627\u0645\u0627\u0645 \u062c\u0639\u0641\u0631 \u0635\u0627\u062f\u0642 (\u0639)", 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "lifeTime", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "description": "", 
+          "rules": [
+            [
+              "start", 
+              {
+                "date": "0128/02/07", 
+                "time": "06:04:45"
+              }
+            ], 
+            [
+              "end", 
+              {
+                "date": "0183/07/25", 
+                "time": "06:04:45"
+              }
+            ]
+          ], 
+          "modified": 1336786539.456317, 
+          "summary": "\u0632\u0646\u062f\u06af\u0627\u0646\u06cc \u0627\u0645\u0627\u0645 \u0645\u0648\u0633\u06cc \u06a9\u0627\u0638\u0645 (\u0639)", 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "lifeTime", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "description": "", 
+          "rules": [
+            [
+              "start", 
+              {
+                "date": "0148/11/11", 
+                "time": "06:05:41"
+              }
+            ], 
+            [
+              "end", 
+              {
+                "date": "0203/02/30", 
+                "time": "06:05:41"
+              }
+            ]
+          ], 
+          "modified": 1336786644.296493, 
+          "summary": "\u0632\u0646\u062f\u06af\u0627\u0646\u06cc \u0627\u0645\u0627\u0645 \u0631\u0636\u0627 (\u0639)", 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "lifeTime", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "description": "", 
+          "rules": [
+            [
+              "start", 
+              {
+                "date": "0195/07/10", 
+                "time": "06:07:25"
+              }
+            ], 
+            [
+              "end", 
+              {
+                "date": "0219/11/30", 
+                "time": "06:07:25"
+              }
+            ]
+          ], 
+          "modified": 1336786738.736585, 
+          "summary": "\u0632\u0646\u062f\u06af\u0627\u0646\u06cc \u0627\u0645\u0627\u0645 \u062c\u0648\u0627\u062f (\u0639)", 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "lifeTime", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "description": "", 
+          "rules": [
+            [
+              "start", 
+              {
+                "date": "0212/12/15", 
+                "time": "06:09:00"
+              }
+            ], 
+            [
+              "end", 
+              {
+                "date": "0254/07/03", 
+                "time": "06:09:00"
+              }
+            ]
+          ], 
+          "modified": 1336786838.088668, 
+          "summary": "\u0632\u0646\u062f\u06af\u0627\u0646\u06cc \u0627\u0645\u0627\u0645 \u0645\u062d\u0645\u062f \u0647\u0627\u062f\u06cc (\u0639)", 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "lifeTime", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "description": "", 
+          "rules": [
+            [
+              "start", 
+              {
+                "date": "0232/04/08", 
+                "time": "06:10:39"
+              }
+            ], 
+            [
+              "end", 
+              {
+                "date": "0260/05/08", 
+                "time": "06:10:39"
+              }
+            ]
+          ], 
+          "modified": 1336786904.600725, 
+          "summary": "\u0632\u0646\u062f\u06af\u0627\u0646\u06cc \u0627\u0645\u0627\u0645 \u062d\u0633\u0646 \u0639\u0633\u06af\u0631\u06cc", 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "lifeTime", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "description": "", 
+          "rules": [
+            [
+              "start", 
+              {
+                "date": "0255/08/15", 
+                "time": "06:11:49"
+              }
+            ], 
+            [
+              "end", 
+              {
+                "date": "2000/01/01", 
+                "time": "06:11:49"
+              }
+            ]
+          ], 
+          "modified": 1336786979.520784, 
+          "summary": "\u0632\u0646\u062f\u06af\u0627\u0646\u06cc \u0627\u0645\u0627\u0645 \u0632\u0645\u0627\u0646 (\u0639\u062c)", 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "lifeTime", 
+          "icon": ""
+        }
+      ], 
+      "icon": ""
+    }, 
+    {
+      "startJd": 1948086, 
+      "showFullEventDesc": false, 
+      "enable": true, 
+      "title": "\u062a\u0627\u0631\u06cc\u062e \u0627\u06cc\u0631\u0627\u0646 \u067e\u0633 \u0627\u0632 \u0627\u0633\u0644\u0627\u0645", 
+      "color": [
+        76, 
+        255, 
+        0
+      ], 
+      "endJd": 2515072, 
+      "eventCacheSize": 0, 
+      "eventTextSep": ": ", 
+      "calType": "hijri", 
+      "type": "largeScale", 
+      "events": [
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "\u062f\u0631 \u0645\u0631\u0648\u060c \u0645\u0631\u06a9\u0632 \u062e\u0631\u0627\u0633\u0627\u0646", 
+          "rules": [], 
+          "duration": 53.0, 
+          "modified": 1336342617.161646, 
+          "summary": "\u0637\u0627\u0647\u0631\u06cc\u0627\u0646", 
+          "start": 206.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "\u062f\u0631 \u0633\u06cc\u0633\u062a\u0627\u0646\u060c \u0647\u0631\u0627\u062a\u060c \u06a9\u0631\u0645\u0627\u0646\u060c \u0641\u0627\u0631\u0633\u060c \u06a9\u0627\u0628\u0644\u060c \u0646\u06cc\u0634\u0627\u0628\u0648\u0631 \u0648 \u062e\u0648\u0632\u0633\u062a\u0627\u0646", 
+          "rules": [], 
+          "duration": 164.0, 
+          "modified": 1336342727.322053, 
+          "summary": "\u0635\u0641\u0627\u0631\u06cc\u0627\u0646", 
+          "start": 247.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "\u062f\u0631 \u0637\u0628\u0631\u0633\u062a\u0627\u0646\u060c \u062f\u06cc\u0644\u0645\u060c \u0631\u06cc \u0648 \u06af\u0631\u06af\u0627\u0646", 
+          "rules": [], 
+          "duration": 66.0, 
+          "modified": 1336342777.802162, 
+          "summary": "\u0639\u0644\u0648\u06cc\u0648\u0646 \u0637\u0628\u0631\u0633\u062a\u0627\u0646", 
+          "start": 250.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "\u062f\u0631 \u062a\u0645\u0627\u0645 \u0645\u0627\u0648\u0631\u0627\u0621\u0627\u0644\u0646\u0647\u0631\u060c \u0633\u0645\u0631\u0642\u0646\u062f\u060c \u0628\u062e\u0627\u0631\u0627\u060c \u0686\u0627\u0686\u060c \u062e\u0631\u0627\u0633\u0627\u0646\u060c \u0633\u06cc\u0633\u062a\u0627\u0646 \u0648 \u0631\u06cc", 
+          "rules": [], 
+          "duration": 110.0, 
+          "modified": 1336342927.202488, 
+          "summary": "\u0633\u0627\u0645\u0627\u0646\u06cc\u0627\u0646", 
+          "start": 279.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "\u062f\u0631 \u062d\u062f\u0648\u062f \u06af\u06cc\u0644\u0627\u0646 \u06a9\u0646\u0648\u0646\u06cc", 
+          "rules": [], 
+          "duration": 117.0, 
+          "modified": 1336342833.57029, 
+          "summary": "\u062f\u06cc\u0627\u0644\u0645\u0647 \u0622\u0644 \u0632\u06cc\u0627\u0631", 
+          "start": 316.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "\u062f\u0631 \u0631\u06cc\u060c \u0627\u0635\u0641\u0647\u0627\u0646\u060c \u06a9\u0631\u0645\u0627\u0646\u060c \u06a9\u0631\u0645\u0627\u0646\u0634\u0627\u0647\u060c \u0639\u0631\u0627\u0642 \u0639\u062c\u0645\u060c \u062e\u0648\u0632\u0633\u062a\u0627\u0646\u060c \u0647\u0645\u062f\u0627\u0646\u060c \u06af\u0631\u06af\u0627\u0646 \u0648 \u0642\u0633\u0645\u062a\u06cc \u0627\u0632 \u0637\u0628\u0631\u0633\u062a\u0627\u0646", 
+          "rules": [], 
+          "duration": 127.0, 
+          "modified": 1336343013.778672, 
+          "summary": "\u0622\u0644 \u0628\u0648\u06cc\u0647", 
+          "start": 320.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "\u062f\u0631 \u063a\u0632\u0646\u0647\u0654 \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646\u060c \u0647\u0646\u062f\u060c \u062e\u0648\u0627\u0631\u0632\u0645\u060c \u062c\u0631\u062c\u0627\u06cc\u062f\u060c \u0631\u06cc \u0648 \u0627\u0635\u0641\u0647\u0627\u0646", 
+          "rules": [], 
+          "duration": 231.0, 
+          "modified": 1336343123.066912, 
+          "summary": "\u063a\u0632\u0646\u0648\u06cc\u0627\u0646", 
+          "start": 351.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 161.0, 
+          "modified": 1336343165.79509, 
+          "summary": "\u0633\u0644\u062c\u0648\u0642\u06cc\u0627\u0646", 
+          "start": 429.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 138.0, 
+          "modified": 1336343196.979004, 
+          "summary": "\u062e\u0648\u0627\u0631\u0632\u0645\u0634\u0627\u0647\u06cc\u0627\u0646", 
+          "start": 490.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 69.0, 
+          "modified": 1336343231.763079, 
+          "summary": "\u0633\u0644\u0627\u0637\u06cc\u0646 \u063a\u0648\u0631", 
+          "start": 543.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 117.0, 
+          "modified": 1336533514.304874, 
+          "summary": "\u0627\u062a\u0627\u0628\u06a9\u0627\u0646 \u0641\u0627\u0631\u0633", 
+          "start": 543.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 277.0, 
+          "modified": 1336533480.74475, 
+          "summary": "\u0627\u0645\u0631\u0627\u06cc \u0644\u0631\u0633\u062a\u0627\u0646", 
+          "start": 550.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "\u0628\u0639\u062f \u0627\u0632 \u062d\u0645\u0644\u0647 \u0628\u0647 \u0645\u0645\u06a9\u0627\u0644\u06a9 \u062e\u0648\u0627\u0631\u0632\u0645\u0634\u0627\u0647\u06cc\u0627\u0646", 
+          "rules": [], 
+          "duration": 36.0, 
+          "modified": 1336533289.41645, 
+          "summary": "\u0633\u0644\u0637\u0646\u062a \u0686\u0646\u06af\u06cc\u0632 \u062e\u0627\u0646 \u0645\u063a\u0648\u0644 \u0648 \u062c\u0627\u0646\u0634\u06cc\u0646\u0627\u0646\u0634", 
+          "start": 615.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 84.0, 
+          "modified": 1336533448.360617, 
+          "summary": "\u0642\u0631\u0627\u062e\u062a\u0627\u0626\u06cc\u0627\u0646 \u06a9\u0631\u0645\u0627\u0646", 
+          "start": 619.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 33.0, 
+          "modified": 1336533608.592614, 
+          "summary": "\u0645\u064f\u0644\u0648\u06a9 \u06a9\u0650\u0631\u062a", 
+          "start": 643.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 12.0, 
+          "modified": 1336533401.976498, 
+          "summary": "\u062d\u0645\u0644\u0647\u0654 \u0647\u0648\u0644\u0627\u06a9\u0648 \u0648 \u0627\u0646\u0642\u0631\u0627\u0636 \u0633\u0644\u0633\u0644\u0647\u0654 \u0639\u0628\u0627\u0633\u06cc", 
+          "start": 651.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 93.0, 
+          "modified": 1336533655.240796, 
+          "summary": "\u0633\u0644\u0627\u0637\u06cc\u0646 \u0645\u063a\u0648\u0644 \u0627\u06cc\u0631\u0627\u0646(\u0627\u06cc\u0644\u062e\u0627\u0646\u0627\u0646)", 
+          "start": 663.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 42.0, 
+          "modified": 1336533813.840788, 
+          "summary": "\u0633\u0644\u0637\u0646\u062a \u0627\u06cc\u0644\u062e\u0627\u0646\u0627\u0646 \u0645\u0633\u0644\u0645\u0627\u0646", 
+          "start": 694.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 37.0, 
+          "modified": 1336534090.456654, 
+          "summary": "\u062e\u0627\u0646\u062f\u0627\u0646 \u0627\u06cc\u0646\u062c\u0648 \u0648 \u0622\u0644\u200c\u0645\u0638\u0641\u0631", 
+          "start": 724.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 75.0, 
+          "modified": 1336534133.552698, 
+          "summary": "\u0627\u0645\u0631\u0627\u06cc \u0637\u063a\u0627\u062a\u06cc\u0645\u0648\u0631", 
+          "start": 737.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 20.0, 
+          "modified": 1336534161.456887, 
+          "summary": "\u0686\u0648\u067e\u0627\u0644\u06cc\u0627\u0646", 
+          "start": 738.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 96.0, 
+          "modified": 1336534216.064823, 
+          "summary": "\u0627\u0645\u0631\u0627\u06cc \u0627\u06cc\u0644\u06a9\u0627\u0646\u06cc(\u0622\u0644\u200c\u062c\u0644\u0627\u06cc\u0631)", 
+          "start": 740.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 140.0, 
+          "modified": 1336534279.024982, 
+          "summary": "\u0638\u0647\u0648\u0631 \u0627\u0645\u06cc\u0631\u062a\u06cc\u0645\u0648\u0631 \u0648 \u0633\u0644\u0633\u0644\u0647\u0654 \u06af\u0648\u0631\u06a9\u0627\u0646\u06cc\u0627\u0646", 
+          "start": 771.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 63.0, 
+          "modified": 1336533693.592805, 
+          "summary": "\u0627\u0645\u0631\u0627\u06cc \u0642\u0631\u0627\u0642\u0648\u06cc\u0648\u0646\u0644\u0648", 
+          "start": 810.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 48.0, 
+          "modified": 1336533736.456962, 
+          "summary": "\u0627\u0645\u0631\u0627\u06cc \u0622\u0642\u200c\u0642\u0648\u06cc\u0648\u0646\u0644\u0648", 
+          "start": 872.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 243.0, 
+          "modified": 1336534355.224795, 
+          "summary": "\u0635\u0641\u0648\u06cc\u0627\u0646", 
+          "start": 905.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 70.0, 
+          "modified": 1336534383.944845, 
+          "summary": "\u0627\u0641\u0634\u0627\u0631\u06cc\u0627\u0646", 
+          "start": 1148.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 46.0, 
+          "modified": 1336534409.745124, 
+          "summary": "\u0632\u0646\u062f\u06cc\u0627\u0646", 
+          "start": 1163.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 144.0, 
+          "modified": 1336534747.903071, 
+          "summary": "\u0642\u0627\u062c\u0627\u0631", 
+          "start": 1200.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 54.0, 
+          "modified": 1336535717.312861, 
+          "summary": "\u067e\u0647\u0644\u0648\u06cc", 
+          "start": 1344.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }, 
+        {
+          "remoteIds": null, 
+          "scale": 1, 
+          "description": "", 
+          "rules": [], 
+          "duration": 40.0, 
+          "modified": 1336534568.457135, 
+          "summary": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc", 
+          "start": 1398.0, 
+          "notifiers": [], 
+          "notifyBefore": "0 second", 
+          "calType": "hijri", 
+          "type": "largeScale", 
+          "icon": ""
+        }
+      ], 
+      "icon": ""
+    }
+  ]
+}
