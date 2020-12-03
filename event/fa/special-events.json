@@ -1,0 +1,171 @@
+{
+	"info": {
+		"appName": "starcal3",
+		"version": "3.2rc2-101-g32f71ca6"
+	},
+	"groups": [
+		{
+			"uuid": "518315b9d9e44a4d9b2c479cb8a5eb79",
+			"type": "group",
+			"title": "مناسبت‌های خاص",
+			"calType": "gregorian",
+			"timeZoneEnable": false,
+			"timeZone": "Asia/Tehran",
+			"showInDCal": true,
+			"showInWCal": true,
+			"showInMCal": true,
+			"showInStatusIcon": false,
+			"showInTimeLine": true,
+			"addEventsToBeginning": false,
+			"showFullEventDesc": false,
+			"color": [
+				0,
+				99,
+				255,
+				255
+			],
+			"icon": "",
+			"eventCacheSize": 100,
+			"eventTextSep": ": ",
+			"startJd": 2455277,
+			"endJd": 2462582,
+			"modified": 1606970489.0718935,
+			"events": [
+				{
+					"timeZoneEnable": false,
+					"uuid": "e9861437c6494e0390edb630de604cd7",
+					"type": "custom",
+					"calType": "gregorian",
+					"summary": "روز جهانی تعاون",
+					"description": "اولین شنبه ماه جولای\nInternational Co-operative Day\nhttps://en.wikipedia.org/wiki/International_Co-operative_Day",
+					"rules": [
+						[
+							"weekMonth",
+							{
+								"month": 7,
+								"wmIndex": 4,
+								"weekDay": 6
+							}
+						]
+					],
+					"icon": "",
+					"modified": 1606970051.2561598
+				},
+				{
+					"timeZoneEnable": false,
+					"uuid": "5d501b8f0fbd487ea4148913b9b91c84",
+					"type": "custom",
+					"calType": "jalali",
+					"summary": "چهارشنبه‌سوری",
+					"description": "جشن شب چهارشنبهٔ آخر سال\nhttps://en.wikipedia.org/wiki/Chaharshanbe_Suri",
+					"rules": [
+						[
+							"weekMonth",
+							{
+								"month": 12,
+								"wmIndex": 4,
+								"weekDay": 2
+							}
+						]
+					],
+					"icon": "holiday.png",
+					"modified": 1606970626.8293133
+				},
+				{
+					"timeZoneEnable": false,
+					"uuid": "15343234f40843ff97a0f298df81de7c",
+					"type": "custom",
+					"calType": "hijri",
+					"summary": "روز قدس",
+					"description": "آخرین جمعهٔ ماه رمضان\nhttps://en.wikipedia.org/wiki/Quds_Day",
+					"rules": [
+						[
+							"weekMonth",
+							{
+								"month": 9,
+								"wmIndex": 4,
+								"weekDay": 5
+							}
+						]
+					],
+					"icon": "green_clover.svg",
+					"modified": 1606970630.079301
+				},
+				{
+					"timeZoneEnable": false,
+					"uuid": "1a8361bbf4a143b6bd67e266cf1979e0",
+					"type": "custom",
+					"calType": "gregorian",
+					"summary": "روز آزادی نرم‌افزار",
+					"description": "سومین شنبهٔ ماه سپتامبر\nhttps://en.wikipedia.org/wiki/Software_Freedom_Day",
+					"rules": [
+						[
+							"weekMonth",
+							{
+								"month": 9,
+								"wmIndex": 2,
+								"weekDay": 6
+							}
+						]
+					],
+					"icon": "birthday.svg",
+					"modified": 1606970633.102387
+				},
+				{
+					"timeZoneEnable": false,
+					"uuid": "9edbf401eb4d49258a3b4581d1188f7c",
+					"type": "custom",
+					"calType": "jalali",
+					"summary": "روز باشگاه فیزیک",
+					"description": "اولین دوشنبهٔ هر ماه شمسی",
+					"rules": [
+						[
+							"weekMonth",
+							{
+								"month": 0,
+								"wmIndex": 0,
+								"weekDay": 1
+							}
+						]
+					],
+					"icon": "education.png",
+					"modified": 1606970635.832097
+				},
+				{
+					"timeZoneEnable": false,
+					"uuid": "3a132f415c98471083538262dc90ab94",
+					"type": "custom",
+					"calType": "gregorian",
+					"summary": "روز جهانی آمار",
+					"description": "World Statistics Day\nhttps://en.wikipedia.org/wiki/World_Statistics_Day",
+					"rules": [
+						[
+							"month",
+							[
+								10
+							]
+						],
+						[
+							"day",
+							[
+								20
+							]
+						],
+						[
+							"year",
+							[
+								2010,
+								2015,
+								2020,
+								2025,
+								2030
+							]
+						]
+					],
+					"icon": "education.svg",
+					"modified": 1606970504.4475522
+				}
+			]
+		}
+	]
+}
