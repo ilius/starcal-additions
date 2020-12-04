@@ -1,5 +1,6 @@
 {
 	"info": {
+		"title": "مناسبت‌های خاص",
 		"appName": "starcal3",
 		"version": "3.2rc2-101-g32f71ca6"
 	},
@@ -18,12 +19,7 @@
 			"showInTimeLine": true,
 			"addEventsToBeginning": false,
 			"showFullEventDesc": false,
-			"color": [
-				0,
-				99,
-				255,
-				255
-			],
+			"color": [0, 99, 255, 255],
 			"icon": "",
 			"eventCacheSize": 100,
 			"eventTextSep": ": ",
@@ -39,14 +35,7 @@
 					"summary": "روز جهانی تعاون",
 					"description": "اولین شنبه ماه جولای\nInternational Co-operative Day\nhttps://en.wikipedia.org/wiki/International_Co-operative_Day",
 					"rules": [
-						[
-							"weekMonth",
-							{
-								"month": 7,
-								"wmIndex": 4,
-								"weekDay": 6
-							}
-						]
+						["weekMonth", {"month": 7, "wmIndex": 4, "weekDay": 6}]
 					],
 					"icon": "",
 					"modified": 1606970051.2561598
@@ -59,16 +48,9 @@
 					"summary": "چهارشنبه‌سوری",
 					"description": "جشن شب چهارشنبهٔ آخر سال\nhttps://en.wikipedia.org/wiki/Chaharshanbe_Suri",
 					"rules": [
-						[
-							"weekMonth",
-							{
-								"month": 12,
-								"wmIndex": 4,
-								"weekDay": 2
-							}
-						]
+						["weekMonth", {"month": 12, "wmIndex": 4, "weekDay": 2}]
 					],
-					"icon": "holiday.png",
+					"icon": "holiday.svg",
 					"modified": 1606970626.8293133
 				},
 				{
@@ -79,14 +61,7 @@
 					"summary": "روز قدس",
 					"description": "آخرین جمعهٔ ماه رمضان\nhttps://en.wikipedia.org/wiki/Quds_Day",
 					"rules": [
-						[
-							"weekMonth",
-							{
-								"month": 9,
-								"wmIndex": 4,
-								"weekDay": 5
-							}
-						]
+						["weekMonth", {"month": 9, "wmIndex": 4, "weekDay": 5}]
 					],
 					"icon": "green_clover.svg",
 					"modified": 1606970630.079301
@@ -99,14 +74,7 @@
 					"summary": "روز آزادی نرم‌افزار",
 					"description": "سومین شنبهٔ ماه سپتامبر\nhttps://en.wikipedia.org/wiki/Software_Freedom_Day",
 					"rules": [
-						[
-							"weekMonth",
-							{
-								"month": 9,
-								"wmIndex": 2,
-								"weekDay": 6
-							}
-						]
+						["weekMonth", {"month": 9, "wmIndex": 2, "weekDay": 6}]
 					],
 					"icon": "birthday.svg",
 					"modified": 1606970633.102387
@@ -119,14 +87,7 @@
 					"summary": "روز باشگاه فیزیک",
 					"description": "اولین دوشنبهٔ هر ماه شمسی",
 					"rules": [
-						[
-							"weekMonth",
-							{
-								"month": 0,
-								"wmIndex": 0,
-								"weekDay": 1
-							}
-						]
+						["weekMonth", {"month": 0, "wmIndex": 0, "weekDay": 1}]
 					],
 					"icon": "education.png",
 					"modified": 1606970635.832097
@@ -139,28 +100,15 @@
 					"summary": "روز جهانی آمار",
 					"description": "World Statistics Day\nhttps://en.wikipedia.org/wiki/World_Statistics_Day",
 					"rules": [
-						[
-							"month",
-							[
-								10
-							]
-						],
-						[
-							"day",
-							[
-								20
-							]
-						],
-						[
-							"year",
-							[
-								2010,
-								2015,
-								2020,
-								2025,
-								2030
-							]
-						]
+						["month", [10]],
+						["day", [20]],
+						["year", [
+							2010,
+							2015,
+							2020,
+							2025,
+							2030
+						]]
 					],
 					"icon": "education.svg",
 					"modified": 1606970504.4475522
