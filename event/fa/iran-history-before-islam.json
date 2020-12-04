@@ -1,0 +1,173 @@
+{
+	"info": {
+		"title": "تاریخ ایران پیش از اسلام",
+		"appName": "starcal3",
+		"version": "3.2rc2-106-g73abed82"
+	},
+	"groups": [
+		{
+			"uuid": "2f281425937a4cb18fedcb5a4ca59283",
+			"type": "largeScale",
+			"title": "تاریخ ایران پیش از اسلام",
+			"calType": "gregorian",
+			"showInDCal": false,
+			"showInWCal": false,
+			"showInMCal": false,
+			"showInStatusIcon": false,
+			"showInTimeLine": true,
+			"showFullEventDesc": false,
+			"color": [141, 85, 0],
+			"eventTextSep": ": ",
+			"startJd": 625333,
+			"endJd": 1976730,
+			"modified": 1605599065.1586618,
+			"scale": 1,
+			"events": [
+				{
+					"uuid": "8c436773e6c7456a8e37210b6934a59f",
+					"type": "largeScale",
+					"calType": "gregorian",
+					"summary": "سومرها و اکّویی‌ها",
+					"description": "تا ۲۲۲۵ ق‍..م. (سال شروع نامعلوم)",
+					"scale": 1,
+					"start": -3000,
+					"end": 775,
+					"endRel": true,
+					"modified": 1605599065.1538606
+				},
+				{
+					"uuid": "ac59fb6f57df436fa5b80a3be75b3a99",
+					"type": "largeScale",
+					"calType": "gregorian",
+					"summary": "عیلامی‌ها",
+					"description": "",
+					"scale": 1,
+					"start": -2225.0,
+					"end": 1480.0,
+					"endRel": true,
+					"modified": 1605599065.1543088
+				},
+				{
+					"uuid": "3836619a9f89490b8086020a980044df",
+					"type": "largeScale",
+					"calType": "gregorian",
+					"summary": "آسورها(قبل از قدرت)",
+					"description": "",
+					"scale": 1,
+					"start": -970.0,
+					"end": 225.0,
+					"endRel": true,
+					"modified": 1605599065.1547265
+				},
+				{
+					"uuid": "5bbf203c4fc34bd99a32e8aead785d57",
+					"type": "largeScale",
+					"calType": "gregorian",
+					"summary": "مادها(قبل از قدرت)",
+					"description": "",
+					"scale": 1,
+					"start": -837.0,
+					"end": 136.0,
+					"endRel": true,
+					"modified": 1605599065.1550827
+				},
+				{
+					"uuid": "06c063af2c6d462f9cf0f5e8d0a31725",
+					"type": "largeScale",
+					"calType": "gregorian",
+					"summary": "عیلامی‌ها(ادامهٔ حیات پس از انقراض)",
+					"description": "",
+					"scale": 1,
+					"start": -745.0,
+					"end": 100.0,
+					"endRel": true,
+					"modified": 1605599065.1555977
+				},
+				{
+					"uuid": "7573eec1b7ee41a0b3e48549e9e8ed19",
+					"type": "largeScale",
+					"calType": "gregorian",
+					"summary": "آسورها",
+					"description": "",
+					"scale": 1,
+					"start": -745.0,
+					"end": 100.0,
+					"endRel": true,
+					"modified": 1605599065.155949
+				},
+				{
+					"uuid": "b4f37628096b4b93aa8d04c16c4161da",
+					"type": "largeScale",
+					"calType": "gregorian",
+					"summary": "هخامنشیان(پارس‌ها)",
+					"description": "",
+					"scale": 1,
+					"start": -730.0,
+					"end": 400.0,
+					"endRel": true,
+					"modified": 1605599065.1562996
+				},
+				{
+					"uuid": "dfe44592d55f45d78320f14236a43232",
+					"type": "largeScale",
+					"calType": "gregorian",
+					"summary": "مادها",
+					"description": "",
+					"scale": 1,
+					"start": -701.0,
+					"end": 151.0,
+					"endRel": true,
+					"modified": 1605599065.1566684
+				},
+				{
+					"uuid": "96055079dee24a709d29817d62cc1535",
+					"type": "largeScale",
+					"calType": "gregorian",
+					"summary": "سلوکیان(قبل از قدرت)",
+					"description": "",
+					"scale": 1,
+					"start": -334.0,
+					"end": 4.0,
+					"endRel": true,
+					"modified": 1605599065.157091
+				},
+				{
+					"uuid": "779114895dc94f539ba97f6b51ebaef2",
+					"type": "largeScale",
+					"calType": "gregorian",
+					"summary": "سلوکیان(مقدونی‌ها)",
+					"description": "",
+					"scale": 1,
+					"start": -330.0,
+					"end": 201.0,
+					"endRel": true,
+					"modified": 1605599065.1574674
+				},
+				{
+					"uuid": "d0daa8417e51409c810dc323d79aa2cf",
+					"type": "largeScale",
+					"calType": "gregorian",
+					"summary": "اشکانیان(پارت‌ها)",
+					"description": "",
+					"scale": 1,
+					"start": -256.0,
+					"end": 480.0,
+					"endRel": true,
+					"modified": 1605599065.157829
+				},
+				{
+					"uuid": "703b7d8cb57d4af694b4db2dbb0b5e33",
+					"type": "largeScale",
+					"calType": "gregorian",
+					"summary": "ساسانیان",
+					"description": "",
+					"scale": 1,
+					"start": 211.0,
+					"end": 441.0,
+					"endRel": true,
+					"modified": 1605599065.1581862
+				}
+			]
+		}
+	]
+}

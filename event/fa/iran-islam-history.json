@@ -1,1047 +1,413 @@
 {
-  "info": {
-    "appName": "starcal2", 
-    "version": "2.1.2"
-  }, 
-  "groups": [
-    {
-      "enable": true, 
-      "type": "largeScale", 
-      "title": "\u062a\u0627\u0631\u06cc\u062e \u0627\u06cc\u0631\u0627\u0646 \u067e\u06cc\u0634 \u0627\u0632 \u0627\u0633\u0644\u0627\u0645", 
-      "calType": "gregorian", 
-      "showInCal": false, 
-      "showInTimeLine": true, 
-      "showFullEventDesc": false, 
-      "color": [
-        141, 
-        85, 
-        0
-      ], 
-      "icon": "", 
-      "eventCacheSize": 0, 
-      "eventTextSep": ": ", 
-      "startJd": 625333, 
-      "endJd": 2451545, 
-      "scale": 1, 
-      "events": [
-        {
-          "type": "largeScale", 
-          "calType": "gregorian", 
-          "summary": "\u0633\u0648\u0645\u0631\u0647\u0627 \u0648 \u0627\u06a9\u0651\u0648\u06cc\u06cc\u200c\u0647\u0627", 
-          "description": "\u062a\u0627 \u06f2\u06f2\u06f2\u06f5 \u0642\u200d..\u0645. (\u0633\u0627\u0644 \u0634\u0631\u0648\u0639 \u0646\u0627\u0645\u0639\u0644\u0648\u0645)", 
-          "rules": [], 
-          "modified": 1336337522.924277, 
-          "scale": 1, 
-          "start": -3000.0, 
-          "end": 775.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "gregorian", 
-          "summary": "\u0639\u06cc\u0644\u0627\u0645\u06cc\u200c\u0647\u0627", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336337816.196084, 
-          "scale": 1, 
-          "start": -2225.0, 
-          "end": 1480.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "gregorian", 
-          "summary": "\u0622\u0633\u0648\u0631\u0647\u0627(\u0642\u0628\u0644 \u0627\u0632 \u0642\u062f\u0631\u062a)", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336339734.316846, 
-          "scale": 1, 
-          "start": -970.0, 
-          "end": 225.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "gregorian", 
-          "summary": "\u0645\u0627\u062f\u0647\u0627(\u0642\u0628\u0644 \u0627\u0632 \u0642\u062f\u0631\u062a)", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336339751.42936, 
-          "scale": 1, 
-          "start": -837.0, 
-          "end": 136.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "gregorian", 
-          "summary": "\u0639\u06cc\u0644\u0627\u0645\u06cc\u200c\u0647\u0627(\u0627\u062f\u0627\u0645\u0647\u0654 \u062d\u06cc\u0627\u062a \u067e\u0633 \u0627\u0632 \u0627\u0646\u0642\u0631\u0627\u0636)", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336337872.7802, 
-          "scale": 1, 
-          "start": -745.0, 
-          "end": 100.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "gregorian", 
-          "summary": "\u0622\u0633\u0648\u0631\u0647\u0627", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336338125.868517, 
-          "scale": 1, 
-          "start": -745.0, 
-          "end": 100.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "gregorian", 
-          "summary": "\u0647\u062e\u0627\u0645\u0646\u0634\u06cc\u0627\u0646(\u067e\u0627\u0631\u0633\u200c\u0647\u0627)", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336338207.732495, 
-          "scale": 1, 
-          "start": -730.0, 
-          "end": 400.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "gregorian", 
-          "summary": "\u0645\u0627\u062f\u0647\u0627", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336339594.941156, 
-          "scale": 1, 
-          "start": -701.0, 
-          "end": 151.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "gregorian", 
-          "summary": "\u0633\u0644\u0648\u06a9\u06cc\u0627\u0646(\u0642\u0628\u0644 \u0627\u0632 \u0642\u062f\u0631\u062a)", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336341096.644975, 
-          "scale": 1, 
-          "start": -334.0, 
-          "end": 4.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "gregorian", 
-          "summary": "\u0633\u0644\u0648\u06a9\u06cc\u0627\u0646(\u0645\u0642\u062f\u0648\u0646\u06cc\u200c\u0647\u0627)", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336339834.877721, 
-          "scale": 1, 
-          "start": -330.0, 
-          "end": 201.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "gregorian", 
-          "summary": "\u0627\u0634\u06a9\u0627\u0646\u06cc\u0627\u0646(\u067e\u0627\u0631\u062a\u200c\u0647\u0627)", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336341362.462215, 
-          "scale": 1, 
-          "start": -256.0, 
-          "end": 480.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "gregorian", 
-          "summary": "\u0633\u0627\u0633\u0627\u0646\u06cc\u0627\u0646", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336341441.422421, 
-          "scale": 1, 
-          "start": 211.0, 
-          "end": 441.0, 
-          "endRel": true, 
-          "icon": ""
-        }
-      ]
-    }, 
-    {
-      "enable": true, 
-      "type": "largeScale", 
-      "title": "\u062a\u0627\u0631\u06cc\u062e \u0627\u0633\u0644\u0627\u0645", 
-      "calType": "hijri", 
-      "showInCal": false, 
-      "showInTimeLine": true, 
-      "showFullEventDesc": false, 
-      "color": [
-        255, 
-        0, 
-        176
-      ], 
-      "icon": "", 
-      "eventCacheSize": 0, 
-      "eventTextSep": ": ", 
-      "startJd": 1948440, 
-      "endJd": 2479636, 
-      "scale": 1, 
-      "events": [
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u0632\u0646\u062f\u06af\u0627\u0646\u06cc \u0645\u062d\u0645\u062f (\u0635)", 
-          "description": "(\u0639\u0645\u0631: \u06f6\u06f4 \u0633\u0627\u0644 \u0642\u0645\u0631\u06cc \u0648 \u06f6\u06f1 \u0633\u0627\u0644 \u0634\u0645\u0633\u06cc)", 
-          "rules": [], 
-          "modified": 1336342192.528286, 
-          "scale": 1, 
-          "start": -53.0, 
-          "end": 64.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u062e\u0644\u0627\u0641\u062a \u0627\u0628\u0648\u0628\u06a9\u0631", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336342240.632477, 
-          "scale": 1, 
-          "start": 11.0, 
-          "end": 2.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u062e\u0644\u0627\u0641\u062a \u0639\u0645\u0631", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336342277.128766, 
-          "scale": 1, 
-          "start": 13.0, 
-          "end": 10.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u062e\u0644\u0627\u0641\u062a \u0639\u062b\u0645\u0627\u0646", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336342302.640599, 
-          "scale": 1, 
-          "start": 23.0, 
-          "end": 12.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u062e\u0644\u0627\u0641\u062a \u0639\u0644\u06cc (\u0639)", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336342329.192966, 
-          "scale": 1, 
-          "start": 35.0, 
-          "end": 5.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u062e\u0644\u0627\u0641\u062a \u062d\u0633\u0646 \u0628\u0646 \u0639\u0644\u06cc (\u0639)", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336342365.633083, 
-          "scale": 1, 
-          "start": 40.0, 
-          "end": 1.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u062e\u0644\u0641\u0627\u06cc \u0627\u0645\u0648\u06cc (\u0628\u0646\u06cc\u200c\u0627\u0645\u06cc\u0647)", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336342413.585224, 
-          "scale": 1, 
-          "start": 41.0, 
-          "end": 91.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u062e\u0644\u0641\u0627\u06cc \u0639\u0628\u0627\u0633\u06cc (\u0628\u0646\u06cc\u200c\u0639\u0628\u0627\u0633)", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336342450.48927, 
-          "scale": 1, 
-          "start": 132.0, 
-          "end": 524.0, 
-          "endRel": true, 
-          "icon": ""
-        }
-      ]
-    }, 
-    {
-      "enable": true, 
-      "type": "lifeTime", 
-      "title": "\u062a\u0627\u0631\u06cc\u062e \u0627\u0633\u0644\u0627\u0645 - \u0632\u0646\u062f\u06af\u0627\u0646\u06cc \u0645\u0639\u0635\u0648\u0645\u06cc\u0646", 
-      "calType": "hijri", 
-      "showInCal": false, 
-      "showInTimeLine": true, 
-      "showFullEventDesc": false, 
-      "color": [
-        255, 
-        0, 
-        133
-      ], 
-      "icon": "", 
-      "eventCacheSize": 0, 
-      "eventTextSep": ": ", 
-      "startJd": 1926830, 
-      "endJd": 2444199, 
-      "showSeperatedYmdInputs": false, 
-      "events": [
-        {
-          "type": "lifeTime", 
-          "calType": "hijri", 
-          "summary": "\u0632\u0646\u062f\u06af\u06cc \u062d\u0636\u0631\u062a \u0641\u0627\u0637\u0645\u0647 (\u0633)", 
-          "description": "", 
-          "rules": [
-            [
-              "start", 
-              {
-                "date": "-0008/06/20", 
-                "time": "00:00:00"
-              }
-            ], 
-            [
-              "end", 
-              {
-                "date": "0011/06/03", 
-                "time": "00:00:00"
-              }
-            ]
-          ], 
-          "modified": 1336785993.135575, 
-          "icon": ""
-        }, 
-        {
-          "type": "lifeTime", 
-          "calType": "hijri", 
-          "summary": "\u0632\u0646\u062f\u06af\u0627\u0646\u06cc \u0627\u0645\u0627\u0645 \u062d\u0633\u0646 (\u0639)", 
-          "description": "", 
-          "rules": [
-            [
-              "start", 
-              {
-                "date": "0003/09/15", 
-                "time": "00:00:00"
-              }
-            ], 
-            [
-              "end", 
-              {
-                "date": "0050/02/28", 
-                "time": "00:00:00"
-              }
-            ]
-          ], 
-          "modified": 1336786057.519805, 
-          "icon": ""
-        }, 
-        {
-          "type": "lifeTime", 
-          "calType": "hijri", 
-          "summary": "\u0632\u0646\u062f\u06af\u0627\u0646\u06cc \u0627\u0645\u0627\u0645 \u062d\u0633\u06cc\u0646 (\u0639)", 
-          "description": "", 
-          "rules": [
-            [
-              "start", 
-              {
-                "date": "0004/08/03", 
-                "time": "00:00:00"
-              }
-            ], 
-            [
-              "end", 
-              {
-                "date": "0061/01/10", 
-                "time": "00:00:00"
-              }
-            ]
-          ], 
-          "modified": 1336786111.031746, 
-          "icon": ""
-        }, 
-        {
-          "type": "lifeTime", 
-          "calType": "hijri", 
-          "summary": "\u0632\u0646\u062f\u06af\u0627\u0646\u06cc \u0627\u0645\u0627\u0645 \u0632\u06cc\u0646\u200c\u0627\u0644\u0639\u0627\u0628\u062f\u06cc\u0646", 
-          "description": "", 
-          "rules": [
-            [
-              "start", 
-              {
-                "date": "0039/05/15", 
-                "time": "00:00:00"
-              }
-            ], 
-            [
-              "end", 
-              {
-                "date": "0095/01/25", 
-                "time": "00:00:00"
-              }
-            ]
-          ], 
-          "modified": 1336786340.263894, 
-          "icon": ""
-        }, 
-        {
-          "type": "lifeTime", 
-          "calType": "hijri", 
-          "summary": "\u0632\u0646\u062f\u06af\u0627\u0646\u06cc \u0627\u0645\u0627\u0645 \u0645\u062d\u0645\u062f \u0628\u0627\u0642\u0631", 
-          "description": "", 
-          "rules": [
-            [
-              "start", 
-              {
-                "date": "0057/07/01", 
-                "time": "00:00:00"
-              }
-            ], 
-            [
-              "end", 
-              {
-                "date": "0114/12/07", 
-                "time": "00:00:00"
-              }
-            ]
-          ], 
-          "modified": 1336786403.887929, 
-          "icon": ""
-        }, 
-        {
-          "type": "lifeTime", 
-          "calType": "hijri", 
-          "summary": "\u0632\u0646\u062f\u06af\u0627\u0646\u06cc \u0627\u0645\u0627\u0645 \u062c\u0639\u0641\u0631 \u0635\u0627\u062f\u0642 (\u0639)", 
-          "description": "", 
-          "rules": [
-            [
-              "start", 
-              {
-                "date": "0083/03/17", 
-                "time": "00:00:00"
-              }
-            ], 
-            [
-              "end", 
-              {
-                "date": "0148/10/25", 
-                "time": "00:00:00"
-              }
-            ]
-          ], 
-          "modified": 1336786483.584241, 
-          "icon": ""
-        }, 
-        {
-          "type": "lifeTime", 
-          "calType": "hijri", 
-          "summary": "\u0632\u0646\u062f\u06af\u0627\u0646\u06cc \u0627\u0645\u0627\u0645 \u0645\u0648\u0633\u06cc \u06a9\u0627\u0638\u0645 (\u0639)", 
-          "description": "", 
-          "rules": [
-            [
-              "start", 
-              {
-                "date": "0128/02/07", 
-                "time": "00:00:00"
-              }
-            ], 
-            [
-              "end", 
-              {
-                "date": "0183/07/25", 
-                "time": "00:00:00"
-              }
-            ]
-          ], 
-          "modified": 1336786539.456317, 
-          "icon": ""
-        }, 
-        {
-          "type": "lifeTime", 
-          "calType": "hijri", 
-          "summary": "\u0632\u0646\u062f\u06af\u0627\u0646\u06cc \u0627\u0645\u0627\u0645 \u0631\u0636\u0627 (\u0639)", 
-          "description": "", 
-          "rules": [
-            [
-              "start", 
-              {
-                "date": "0148/11/11", 
-                "time": "00:00:00"
-              }
-            ], 
-            [
-              "end", 
-              {
-                "date": "0203/02/30", 
-                "time": "00:00:00"
-              }
-            ]
-          ], 
-          "modified": 1336786644.296493, 
-          "icon": ""
-        }, 
-        {
-          "type": "lifeTime", 
-          "calType": "hijri", 
-          "summary": "\u0632\u0646\u062f\u06af\u0627\u0646\u06cc \u0627\u0645\u0627\u0645 \u062c\u0648\u0627\u062f (\u0639)", 
-          "description": "", 
-          "rules": [
-            [
-              "start", 
-              {
-                "date": "0195/07/10", 
-                "time": "00:00:00"
-              }
-            ], 
-            [
-              "end", 
-              {
-                "date": "0219/11/30", 
-                "time": "00:00:00"
-              }
-            ]
-          ], 
-          "modified": 1336786738.736585, 
-          "icon": ""
-        }, 
-        {
-          "type": "lifeTime", 
-          "calType": "hijri", 
-          "summary": "\u0632\u0646\u062f\u06af\u0627\u0646\u06cc \u0627\u0645\u0627\u0645 \u0645\u062d\u0645\u062f \u0647\u0627\u062f\u06cc (\u0639)", 
-          "description": "", 
-          "rules": [
-            [
-              "start", 
-              {
-                "date": "0212/12/15", 
-                "time": "00:00:00"
-              }
-            ], 
-            [
-              "end", 
-              {
-                "date": "0254/07/03", 
-                "time": "00:00:00"
-              }
-            ]
-          ], 
-          "modified": 1336786838.088668, 
-          "icon": ""
-        }, 
-        {
-          "type": "lifeTime", 
-          "calType": "hijri", 
-          "summary": "\u0632\u0646\u062f\u06af\u0627\u0646\u06cc \u0627\u0645\u0627\u0645 \u062d\u0633\u0646 \u0639\u0633\u06af\u0631\u06cc", 
-          "description": "", 
-          "rules": [
-            [
-              "start", 
-              {
-                "date": "0232/04/08", 
-                "time": "00:00:00"
-              }
-            ], 
-            [
-              "end", 
-              {
-                "date": "0260/05/08", 
-                "time": "00:00:00"
-              }
-            ]
-          ], 
-          "modified": 1336786904.600725, 
-          "icon": ""
-        }, 
-        {
-          "type": "lifeTime", 
-          "calType": "hijri", 
-          "summary": "\u0632\u0646\u062f\u06af\u0627\u0646\u06cc \u0627\u0645\u0627\u0645 \u0632\u0645\u0627\u0646 (\u0639\u062c)", 
-          "description": "", 
-          "rules": [
-            [
-              "start", 
-              {
-                "date": "0255/08/15", 
-                "time": "00:00:00"
-              }
-            ], 
-            [
-              "end", 
-              {
-                "date": "2000/01/01", 
-                "time": "00:00:00"
-              }
-            ]
-          ], 
-          "modified": 1336786979.520784, 
-          "icon": ""
-        }
-      ]
-    }, 
-    {
-      "enable": true, 
-      "type": "largeScale", 
-      "title": "\u062a\u0627\u0631\u06cc\u062e \u0627\u06cc\u0631\u0627\u0646 \u067e\u0633 \u0627\u0632 \u0627\u0633\u0644\u0627\u0645", 
-      "calType": "hijri", 
-      "showInCal": false, 
-      "showInTimeLine": true, 
-      "showFullEventDesc": false, 
-      "color": [
-        76, 
-        255, 
-        0
-      ], 
-      "icon": "", 
-      "eventCacheSize": 0, 
-      "eventTextSep": ": ", 
-      "startJd": 1948086, 
-      "endJd": 2515072, 
-      "scale": 1, 
-      "events": [
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u0637\u0627\u0647\u0631\u06cc\u0627\u0646", 
-          "description": "\u062f\u0631 \u0645\u0631\u0648\u060c \u0645\u0631\u06a9\u0632 \u062e\u0631\u0627\u0633\u0627\u0646", 
-          "rules": [], 
-          "modified": 1336342617.161646, 
-          "scale": 1, 
-          "start": 206.0, 
-          "end": 53.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u0635\u0641\u0627\u0631\u06cc\u0627\u0646", 
-          "description": "\u062f\u0631 \u0633\u06cc\u0633\u062a\u0627\u0646\u060c \u0647\u0631\u0627\u062a\u060c \u06a9\u0631\u0645\u0627\u0646\u060c \u0641\u0627\u0631\u0633\u060c \u06a9\u0627\u0628\u0644\u060c \u0646\u06cc\u0634\u0627\u0628\u0648\u0631 \u0648 \u062e\u0648\u0632\u0633\u062a\u0627\u0646", 
-          "rules": [], 
-          "modified": 1336342727.322053, 
-          "scale": 1, 
-          "start": 247.0, 
-          "end": 164.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u0639\u0644\u0648\u06cc\u0648\u0646 \u0637\u0628\u0631\u0633\u062a\u0627\u0646", 
-          "description": "\u062f\u0631 \u0637\u0628\u0631\u0633\u062a\u0627\u0646\u060c \u062f\u06cc\u0644\u0645\u060c \u0631\u06cc \u0648 \u06af\u0631\u06af\u0627\u0646", 
-          "rules": [], 
-          "modified": 1336342777.802162, 
-          "scale": 1, 
-          "start": 250.0, 
-          "end": 66.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u0633\u0627\u0645\u0627\u0646\u06cc\u0627\u0646", 
-          "description": "\u062f\u0631 \u062a\u0645\u0627\u0645 \u0645\u0627\u0648\u0631\u0627\u0621\u0627\u0644\u0646\u0647\u0631\u060c \u0633\u0645\u0631\u0642\u0646\u062f\u060c \u0628\u062e\u0627\u0631\u0627\u060c \u0686\u0627\u0686\u060c \u062e\u0631\u0627\u0633\u0627\u0646\u060c \u0633\u06cc\u0633\u062a\u0627\u0646 \u0648 \u0631\u06cc", 
-          "rules": [], 
-          "modified": 1336342927.202488, 
-          "scale": 1, 
-          "start": 279.0, 
-          "end": 110.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u062f\u06cc\u0627\u0644\u0645\u0647 \u0622\u0644 \u0632\u06cc\u0627\u0631", 
-          "description": "\u062f\u0631 \u062d\u062f\u0648\u062f \u06af\u06cc\u0644\u0627\u0646 \u06a9\u0646\u0648\u0646\u06cc", 
-          "rules": [], 
-          "modified": 1336342833.57029, 
-          "scale": 1, 
-          "start": 316.0, 
-          "end": 117.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u0622\u0644 \u0628\u0648\u06cc\u0647", 
-          "description": "\u062f\u0631 \u0631\u06cc\u060c \u0627\u0635\u0641\u0647\u0627\u0646\u060c \u06a9\u0631\u0645\u0627\u0646\u060c \u06a9\u0631\u0645\u0627\u0646\u0634\u0627\u0647\u060c \u0639\u0631\u0627\u0642 \u0639\u062c\u0645\u060c \u062e\u0648\u0632\u0633\u062a\u0627\u0646\u060c \u0647\u0645\u062f\u0627\u0646\u060c \u06af\u0631\u06af\u0627\u0646 \u0648 \u0642\u0633\u0645\u062a\u06cc \u0627\u0632 \u0637\u0628\u0631\u0633\u062a\u0627\u0646", 
-          "rules": [], 
-          "modified": 1336343013.778672, 
-          "scale": 1, 
-          "start": 320.0, 
-          "end": 127.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u063a\u0632\u0646\u0648\u06cc\u0627\u0646", 
-          "description": "\u062f\u0631 \u063a\u0632\u0646\u0647\u0654 \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646\u060c \u0647\u0646\u062f\u060c \u062e\u0648\u0627\u0631\u0632\u0645\u060c \u062c\u0631\u062c\u0627\u06cc\u062f\u060c \u0631\u06cc \u0648 \u0627\u0635\u0641\u0647\u0627\u0646", 
-          "rules": [], 
-          "modified": 1336343123.066912, 
-          "scale": 1, 
-          "start": 351.0, 
-          "end": 231.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u0633\u0644\u062c\u0648\u0642\u06cc\u0627\u0646", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336343165.79509, 
-          "scale": 1, 
-          "start": 429.0, 
-          "end": 161.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u062e\u0648\u0627\u0631\u0632\u0645\u0634\u0627\u0647\u06cc\u0627\u0646", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336343196.979004, 
-          "scale": 1, 
-          "start": 490.0, 
-          "end": 138.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u0633\u0644\u0627\u0637\u06cc\u0646 \u063a\u0648\u0631", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336343231.763079, 
-          "scale": 1, 
-          "start": 543.0, 
-          "end": 69.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u0627\u062a\u0627\u0628\u06a9\u0627\u0646 \u0641\u0627\u0631\u0633", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336533514.304874, 
-          "scale": 1, 
-          "start": 543.0, 
-          "end": 117.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u0627\u0645\u0631\u0627\u06cc \u0644\u0631\u0633\u062a\u0627\u0646", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336533480.74475, 
-          "scale": 1, 
-          "start": 550.0, 
-          "end": 277.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u0633\u0644\u0637\u0646\u062a \u0686\u0646\u06af\u06cc\u0632 \u062e\u0627\u0646 \u0645\u063a\u0648\u0644 \u0648 \u062c\u0627\u0646\u0634\u06cc\u0646\u0627\u0646\u0634", 
-          "description": "\u0628\u0639\u062f \u0627\u0632 \u062d\u0645\u0644\u0647 \u0628\u0647 \u0645\u0645\u06a9\u0627\u0644\u06a9 \u062e\u0648\u0627\u0631\u0632\u0645\u0634\u0627\u0647\u06cc\u0627\u0646", 
-          "rules": [], 
-          "modified": 1336533289.41645, 
-          "scale": 1, 
-          "start": 615.0, 
-          "end": 36.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u0642\u0631\u0627\u062e\u062a\u0627\u0626\u06cc\u0627\u0646 \u06a9\u0631\u0645\u0627\u0646", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336533448.360617, 
-          "scale": 1, 
-          "start": 619.0, 
-          "end": 84.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u0645\u064f\u0644\u0648\u06a9 \u06a9\u0650\u0631\u062a", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336533608.592614, 
-          "scale": 1, 
-          "start": 643.0, 
-          "end": 33.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u062d\u0645\u0644\u0647\u0654 \u0647\u0648\u0644\u0627\u06a9\u0648 \u0648 \u0627\u0646\u0642\u0631\u0627\u0636 \u0633\u0644\u0633\u0644\u0647\u0654 \u0639\u0628\u0627\u0633\u06cc", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336533401.976498, 
-          "scale": 1, 
-          "start": 651.0, 
-          "end": 12.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u0633\u0644\u0627\u0637\u06cc\u0646 \u0645\u063a\u0648\u0644 \u0627\u06cc\u0631\u0627\u0646(\u0627\u06cc\u0644\u062e\u0627\u0646\u0627\u0646)", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336533655.240796, 
-          "scale": 1, 
-          "start": 663.0, 
-          "end": 93.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u0633\u0644\u0637\u0646\u062a \u0627\u06cc\u0644\u062e\u0627\u0646\u0627\u0646 \u0645\u0633\u0644\u0645\u0627\u0646", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336533813.840788, 
-          "scale": 1, 
-          "start": 694.0, 
-          "end": 42.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u062e\u0627\u0646\u062f\u0627\u0646 \u0627\u06cc\u0646\u062c\u0648 \u0648 \u0622\u0644\u200c\u0645\u0638\u0641\u0631", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336534090.456654, 
-          "scale": 1, 
-          "start": 724.0, 
-          "end": 37.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u0627\u0645\u0631\u0627\u06cc \u0637\u063a\u0627\u062a\u06cc\u0645\u0648\u0631", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336534133.552698, 
-          "scale": 1, 
-          "start": 737.0, 
-          "end": 75.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u0686\u0648\u067e\u0627\u0644\u06cc\u0627\u0646", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336534161.456887, 
-          "scale": 1, 
-          "start": 738.0, 
-          "end": 20.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u0627\u0645\u0631\u0627\u06cc \u0627\u06cc\u0644\u06a9\u0627\u0646\u06cc(\u0622\u0644\u200c\u062c\u0644\u0627\u06cc\u0631)", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336534216.064823, 
-          "scale": 1, 
-          "start": 740.0, 
-          "end": 96.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u0638\u0647\u0648\u0631 \u0627\u0645\u06cc\u0631\u062a\u06cc\u0645\u0648\u0631 \u0648 \u0633\u0644\u0633\u0644\u0647\u0654 \u06af\u0648\u0631\u06a9\u0627\u0646\u06cc\u0627\u0646", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336534279.024982, 
-          "scale": 1, 
-          "start": 771.0, 
-          "end": 140.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u0627\u0645\u0631\u0627\u06cc \u0642\u0631\u0627\u0642\u0648\u06cc\u0648\u0646\u0644\u0648", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336533693.592805, 
-          "scale": 1, 
-          "start": 810.0, 
-          "end": 63.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u0627\u0645\u0631\u0627\u06cc \u0622\u0642\u200c\u0642\u0648\u06cc\u0648\u0646\u0644\u0648", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336533736.456962, 
-          "scale": 1, 
-          "start": 872.0, 
-          "end": 48.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u0635\u0641\u0648\u06cc\u0627\u0646", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336534355.224795, 
-          "scale": 1, 
-          "start": 905.0, 
-          "end": 243.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u0627\u0641\u0634\u0627\u0631\u06cc\u0627\u0646", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336534383.944845, 
-          "scale": 1, 
-          "start": 1148.0, 
-          "end": 70.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u0632\u0646\u062f\u06cc\u0627\u0646", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336534409.745124, 
-          "scale": 1, 
-          "start": 1163.0, 
-          "end": 46.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u0642\u0627\u062c\u0627\u0631", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336534747.903071, 
-          "scale": 1, 
-          "start": 1200.0, 
-          "end": 144.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u067e\u0647\u0644\u0648\u06cc", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336535717.312861, 
-          "scale": 1, 
-          "start": 1344.0, 
-          "end": 54.0, 
-          "endRel": true, 
-          "icon": ""
-        }, 
-        {
-          "type": "largeScale", 
-          "calType": "hijri", 
-          "summary": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc", 
-          "description": "", 
-          "rules": [], 
-          "modified": 1336534568.457135, 
-          "scale": 1, 
-          "start": 1398.0, 
-          "end": 40.0, 
-          "endRel": true, 
-          "icon": ""
-        }
-      ]
-    }
-  ]
+	"info": {
+		"title": "تاریخ ایران پس از اسلام",
+		"appName": "starcal3",
+		"version": "3.2rc2-106-g73abed82"
+	},
+	"groups": [
+		{
+			"uuid": "4c60baed2a914ccb84ad8a59c150d716",
+			"type": "largeScale",
+			"title": "تاریخ ایران پس از اسلام",
+			"calType": "hijri",
+			"showInDCal": false,
+			"showInWCal": false,
+			"showInMCal": false,
+			"showInStatusIcon": false,
+			"showInTimeLine": true,
+			"showFullEventDesc": false,
+			"color": [76, 255, 0],
+			"eventTextSep": ": ",
+			"startJd": 2018959,
+			"endJd": 2479636,
+			"modified": 1607108304.4147308,
+			"scale": 1,
+			"events": [
+				{
+					"uuid": "512cb67f48b64198b41ecaaa92d75857",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "طاهریان",
+					"description": "در مرو، مرکز خراسان",
+					"scale": 1,
+					"start": 206,
+					"end": 53,
+					"endRel": true,
+					"modified": 1605599065.123366
+				},
+				{
+					"uuid": "c29ae44ac9394edb8e2c76a5233bbd3d",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "صفاریان",
+					"description": "در سیستان، هرات، کرمان، فارس، کابل، نیشابور و خوزستان",
+					"scale": 1,
+					"start": 247,
+					"end": 164,
+					"endRel": true,
+					"modified": 1605599065.123735
+				},
+				{
+					"uuid": "991e2638344a42749a8ff3dc199fbcbc",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "علویون طبرستان",
+					"description": "در طبرستان، دیلم، ری و گرگان",
+					"scale": 1,
+					"start": 250.0,
+					"end": 66.0,
+					"endRel": true,
+					"modified": 1605599065.124137
+				},
+				{
+					"uuid": "0fc2f28cfac441e7bc2d5a6dbe03aeb4",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "سامانیان",
+					"description": "در تمام ماوراءالنهر، سمرقند، بخارا، چاچ، خراسان، سیستان و ری",
+					"scale": 1,
+					"start": 279.0,
+					"end": 110.0,
+					"endRel": true,
+					"modified": 1605599065.1245317
+				},
+				{
+					"uuid": "aa6ea1504701405986502886888289ab",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "دیالمه آل زیار",
+					"description": "در حدود گیلان کنونی",
+					"scale": 1,
+					"start": 316.0,
+					"end": 117.0,
+					"endRel": true,
+					"modified": 1605599065.124969
+				},
+				{
+					"uuid": "ed1b48b38ebe42e3a6ac75bc66f5ac94",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "آل بویه",
+					"description": "در ری، اصفهان، کرمان، کرمانشاه، عراق عجم، خوزستان، همدان، گرگان و قسمتی از طبرستان",
+					"scale": 1,
+					"start": 320.0,
+					"end": 127.0,
+					"endRel": true,
+					"modified": 1605599065.125364
+				},
+				{
+					"uuid": "9d841d4da6124f5eb8ed9170db0a51da",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "غزنویان",
+					"description": "در غزنهٔ افغانستان، هند، خوارزم، جرجاید، ری و اصفهان",
+					"scale": 1,
+					"start": 351.0,
+					"end": 231.0,
+					"endRel": true,
+					"modified": 1605599065.1257308
+				},
+				{
+					"uuid": "d78f0f9988da46b484573a896c3384be",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "سلجوقیان",
+					"description": "",
+					"scale": 1,
+					"start": 429.0,
+					"end": 161.0,
+					"endRel": true,
+					"modified": 1605599065.126096
+				},
+				{
+					"uuid": "22b53396860c4bd39b0002802bb1e821",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "خوارزمشاهیان",
+					"description": "",
+					"scale": 1,
+					"start": 490.0,
+					"end": 138.0,
+					"endRel": true,
+					"modified": 1605599065.1264832
+				},
+				{
+					"uuid": "43fc197809dd483f8f2178097c655499",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "سلاطین غور",
+					"description": "",
+					"scale": 1,
+					"start": 543.0,
+					"end": 69.0,
+					"endRel": true,
+					"modified": 1605599065.1268597
+				},
+				{
+					"uuid": "12141c3428b74a7ca5dd5bff6c10af34",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "اتابکان فارس",
+					"description": "",
+					"scale": 1,
+					"start": 543.0,
+					"end": 117.0,
+					"endRel": true,
+					"modified": 1605599065.1272466
+				},
+				{
+					"uuid": "e0ac2bc435664df2b0318e8265f8bfb8",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "امرای لرستان",
+					"description": "",
+					"scale": 1,
+					"start": 550.0,
+					"end": 277.0,
+					"endRel": true,
+					"modified": 1605599065.127619
+				},
+				{
+					"uuid": "51d15d2dc5504b749f16037fde5c0ab4",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "سلطنت چنگیز خان مغول و جانشینانش",
+					"description": "بعد از حمله به ممکالک خوارزمشاهیان",
+					"scale": 1,
+					"start": 615.0,
+					"end": 36.0,
+					"endRel": true,
+					"modified": 1605599065.1279874
+				},
+				{
+					"uuid": "25a5713a0ca84260bf679ce9821ab7b0",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "قراختائیان کرمان",
+					"description": "",
+					"scale": 1,
+					"start": 619.0,
+					"end": 84.0,
+					"endRel": true,
+					"modified": 1605599065.1283948
+				},
+				{
+					"uuid": "9db2776929584593b83eddf967d527da",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "مُلوک کِرت",
+					"description": "",
+					"scale": 1,
+					"start": 643.0,
+					"end": 33.0,
+					"endRel": true,
+					"modified": 1605599065.1287973
+				},
+				{
+					"uuid": "f6107551e89047b5bbfba282c4070f95",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "حملهٔ هولاکو و انقراض سلسلهٔ عباسی",
+					"description": "",
+					"scale": 1,
+					"start": 651.0,
+					"end": 12.0,
+					"endRel": true,
+					"modified": 1605599065.1292305
+				},
+				{
+					"uuid": "dafca6456e4a412ab6ec947d3867cf66",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "سلاطین مغول ایران(ایلخانان)",
+					"description": "",
+					"scale": 1,
+					"start": 663.0,
+					"end": 93.0,
+					"endRel": true,
+					"modified": 1605599065.1296034
+				},
+				{
+					"uuid": "6b00c9427de94084ab08545fc6a75435",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "سلطنت ایلخانان مسلمان",
+					"description": "",
+					"scale": 1,
+					"start": 694.0,
+					"end": 42.0,
+					"endRel": true,
+					"modified": 1605599065.1299765
+				},
+				{
+					"uuid": "264faafec11f4becb89e1a5495ad0805",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "خاندان اینجو و آل‌مظفر",
+					"description": "",
+					"scale": 1,
+					"start": 724.0,
+					"end": 37.0,
+					"endRel": true,
+					"modified": 1605599065.1303985
+				},
+				{
+					"uuid": "0e2c8511be564e058f3e1f8b944fa323",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "امرای طغاتیمور",
+					"description": "",
+					"scale": 1,
+					"start": 737.0,
+					"end": 75.0,
+					"endRel": true,
+					"modified": 1605599065.1308892
+				},
+				{
+					"uuid": "2d30fd6a428445aabe0eeb28d58a2339",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "چوپالیان",
+					"description": "",
+					"scale": 1,
+					"start": 738.0,
+					"end": 20.0,
+					"endRel": true,
+					"modified": 1605599065.1316497
+				},
+				{
+					"uuid": "65687b43fbd04f3f99100371f8e86132",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "امرای ایلکانی(آل‌جلایر)",
+					"description": "",
+					"scale": 1,
+					"start": 740.0,
+					"end": 96.0,
+					"endRel": true,
+					"modified": 1605599065.1320822
+				},
+				{
+					"uuid": "2890d4a9fe844df7ab61b779f4ad60bd",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "ظهور امیرتیمور و سلسلهٔ گورکانیان",
+					"description": "",
+					"scale": 1,
+					"start": 771.0,
+					"end": 140.0,
+					"endRel": true,
+					"modified": 1605599065.132475
+				},
+				{
+					"uuid": "6dd84f9077f4475e8efc3f7603e63fd7",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "امرای قراقویونلو",
+					"description": "",
+					"scale": 1,
+					"start": 810.0,
+					"end": 63.0,
+					"endRel": true,
+					"modified": 1605599065.1328511
+				},
+				{
+					"uuid": "4e8d5e31aea94938bff573a0f05ad8d6",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "امرای آق‌قویونلو",
+					"description": "",
+					"scale": 1,
+					"start": 872.0,
+					"end": 48.0,
+					"endRel": true,
+					"modified": 1605599065.1332846
+				},
+				{
+					"uuid": "360ea7b149d74f0dbe06b4fe02765029",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "صفویان",
+					"description": "",
+					"scale": 1,
+					"start": 905.0,
+					"end": 243.0,
+					"endRel": true,
+					"modified": 1605599065.133655
+				},
+				{
+					"uuid": "b5edc7dddb7f42ab8d7ec9fd5a726cbc",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "افشاریان",
+					"description": "",
+					"scale": 1,
+					"start": 1148.0,
+					"end": 70.0,
+					"endRel": true,
+					"modified": 1605599065.1340692
+				},
+				{
+					"uuid": "07f6f3d93eaf4e19b786b7175407e75f",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "زندیان",
+					"description": "",
+					"scale": 1,
+					"start": 1163.0,
+					"end": 46.0,
+					"endRel": true,
+					"modified": 1605599065.1344407
+				},
+				{
+					"uuid": "f62e25c548bb4c1784f360028c6c558f",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "قاجار",
+					"description": "",
+					"scale": 1,
+					"start": 1200,
+					"end": 144,
+					"endRel": true,
+					"modified": 1605599065.1348646
+				},
+				{
+					"uuid": "08475ee4397a40fa8cad40befa124b19",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "پهلوی",
+					"description": "",
+					"scale": 1,
+					"start": 1344.0,
+					"end": 54.0,
+					"endRel": true,
+					"modified": 1605599065.1352727
+				},
+				{
+					"uuid": "b617e3dc96934118af866f270d8534e6",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "جمهوری اسلامی",
+					"description": "",
+					"scale": 1,
+					"start": 1398.0,
+					"end": 40.0,
+					"endRel": true,
+					"modified": 1605599065.1356401
+				},
+				{
+					"uuid": "1ad3dd102bd847d982aa39924ab6e1a4",
+					"type": "largeScale",
+					"calType": "jalali",
+					"summary": "جنگ با عراق",
+					"description": "",
+					"scale": 1,
+					"start": 1359,
+					"end": 8,
+					"endRel": true,
+					"modified": 1605599065.1360755
+				}
+			]
+		}
+	]
 }

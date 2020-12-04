@@ -1,0 +1,466 @@
+{
+	"info": {
+		"title": "تاریخ اسلام",
+		"appName": "starcal3",
+		"version": "3.2rc2-106-g73abed82"
+	},
+	"groups": [
+		{
+			"uuid": "3e82d72c7ee14179a2a4bcda3b36dd1f",
+			"type": "largeScale",
+			"title": "تاریخ اسلام",
+			"calType": "hijri",
+			"showInDCal": false,
+			"showInWCal": false,
+			"showInMCal": false,
+			"showInStatusIcon": false,
+			"showInTimeLine": true,
+			"showFullEventDesc": false,
+			"color": [
+				255,
+				0,
+				176
+			],
+			"icon": "",
+			"eventCacheSize": 0,
+			"eventTextSep": ": ",
+			"startJd": 1948440,
+			"endJd": 2196142,
+			"modified": 1605599065.1531699,
+			"scale": 1,
+			"events": [
+				{
+					"uuid": "7be97706a778484584a42fe3ce51345b",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "زندگانی محمد (ص)",
+					"description": "(عمر: ۶۴ سال قمری و ۶۱ سال شمسی)",
+					"scale": 1,
+					"start": -53.0,
+					"end": 64.0,
+					"endRel": true,
+					"icon": "",
+					"modified": 1605599065.15002
+				},
+				{
+					"uuid": "a3cb8a1478f847f49720fbd47b89b1bb",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "خلافت ابوبکر",
+					"description": "",
+					"scale": 1,
+					"start": 11.0,
+					"end": 2.0,
+					"endRel": true,
+					"icon": "",
+					"modified": 1605599065.1503801
+				},
+				{
+					"uuid": "411d2fb83e154e75a7883816172342d0",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "خلافت عمر",
+					"description": "",
+					"scale": 1,
+					"start": 13.0,
+					"end": 10.0,
+					"endRel": true,
+					"icon": "",
+					"modified": 1605599065.150758
+				},
+				{
+					"uuid": "42a7dbe535684320a1cbdcefb550bc29",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "خلافت عثمان",
+					"description": "",
+					"scale": 1,
+					"start": 23.0,
+					"end": 12.0,
+					"endRel": true,
+					"icon": "",
+					"modified": 1605599065.1511238
+				},
+				{
+					"uuid": "4848908424234f5ca7347ff9341f9e2f",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "خلافت علی (ع)",
+					"description": "",
+					"scale": 1,
+					"start": 35.0,
+					"end": 5.0,
+					"endRel": true,
+					"icon": "",
+					"modified": 1605599065.1514797
+				},
+				{
+					"uuid": "c2faaee17350428a8a84d46dcdf38200",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "خلافت حسن بن علی (ع)",
+					"description": "",
+					"scale": 1,
+					"start": 40.0,
+					"end": 1.0,
+					"endRel": true,
+					"icon": "",
+					"modified": 1605599065.151864
+				},
+				{
+					"uuid": "773613149245426aa7e94105fca7e117",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "خلفای اموی (بنی‌امیه)",
+					"description": "",
+					"scale": 1,
+					"start": 41.0,
+					"end": 91.0,
+					"endRel": true,
+					"icon": "",
+					"modified": 1605599065.1522305
+				},
+				{
+					"uuid": "9da146deaf5f4fba822ef7b11095215f",
+					"type": "largeScale",
+					"calType": "hijri",
+					"summary": "خلفای عباسی (بنی‌عباس)",
+					"description": "",
+					"scale": 1,
+					"start": 132.0,
+					"end": 524.0,
+					"endRel": true,
+					"icon": "",
+					"modified": 1605599065.1526377
+				}
+			]
+		},
+		{
+			"uuid": "4c04f11d479749f6928bd467ae3f006e",
+			"type": "lifeTime",
+			"title": "تاریخ اسلام - زندگانی معصومین",
+			"calType": "hijri",
+			"showInDCal": false,
+			"showInWCal": false,
+			"showInMCal": false,
+			"showInStatusIcon": false,
+			"showInTimeLine": true,
+			"addEventsToBeginning": false,
+			"showFullEventDesc": false,
+			"color": [
+				255,
+				0,
+				133
+			],
+			"icon": "",
+			"eventCacheSize": 0,
+			"eventTextSep": ": ",
+			"startJd": 1926830,
+			"endJd": 2444199,
+			"modified": 1605599065.1496437,
+			"showSeparatedYmdInputs": false,
+			"events": [
+				{
+					"uuid": "40ea9dbab9f0456d99d804c68b495eaf",
+					"type": "lifeTime",
+					"calType": "hijri",
+					"summary": "زندگی حضرت فاطمه (س)",
+					"description": "",
+					"rules": [
+						[
+							"start",
+							{
+								"date": "-008/06/20",
+								"time": "00:00"
+							}
+						],
+						[
+							"end",
+							{
+								"date": "0011/06/03",
+								"time": "00:00"
+							}
+						]
+					],
+					"icon": "",
+					"modified": 1605599065.138044
+				},
+				{
+					"uuid": "ae99a69f3a424787bbc3bd640d02f2e4",
+					"type": "lifeTime",
+					"calType": "hijri",
+					"summary": "زندگانی امام حسن (ع)",
+					"description": "",
+					"rules": [
+						[
+							"start",
+							{
+								"date": "0003/09/15",
+								"time": "00:00"
+							}
+						],
+						[
+							"end",
+							{
+								"date": "0050/02/28",
+								"time": "00:00"
+							}
+						]
+					],
+					"icon": "",
+					"modified": 1605599065.1390672
+				},
+				{
+					"uuid": "66dcfecf66d94e47bfb9c26fd5929122",
+					"type": "lifeTime",
+					"calType": "hijri",
+					"summary": "زندگانی امام حسین (ع)",
+					"description": "",
+					"rules": [
+						[
+							"start",
+							{
+								"date": "0004/08/03",
+								"time": "00:00"
+							}
+						],
+						[
+							"end",
+							{
+								"date": "0061/01/10",
+								"time": "00:00"
+							}
+						]
+					],
+					"icon": "",
+					"modified": 1605599065.1400363
+				},
+				{
+					"uuid": "4aeafd60c4ba480493aaf21c8de1e6a7",
+					"type": "lifeTime",
+					"calType": "hijri",
+					"summary": "زندگانی امام زین‌العابدین",
+					"description": "",
+					"rules": [
+						[
+							"start",
+							{
+								"date": "0039/05/15",
+								"time": "00:00"
+							}
+						],
+						[
+							"end",
+							{
+								"date": "0095/01/25",
+								"time": "00:00"
+							}
+						]
+					],
+					"icon": "",
+					"modified": 1605599065.141079
+				},
+				{
+					"uuid": "f2141340050f4157ac1e8f416986f6bc",
+					"type": "lifeTime",
+					"calType": "hijri",
+					"summary": "زندگانی امام محمد باقر",
+					"description": "",
+					"rules": [
+						[
+							"start",
+							{
+								"date": "0057/07/01",
+								"time": "00:00"
+							}
+						],
+						[
+							"end",
+							{
+								"date": "0114/12/07",
+								"time": "00:00"
+							}
+						]
+					],
+					"icon": "",
+					"modified": 1605599065.1420493
+				},
+				{
+					"uuid": "c601244cbf29475ca48e2bd2678c12e4",
+					"type": "lifeTime",
+					"calType": "hijri",
+					"summary": "زندگانی امام جعفر صادق (ع)",
+					"description": "",
+					"rules": [
+						[
+							"start",
+							{
+								"date": "0083/03/17",
+								"time": "00:00"
+							}
+						],
+						[
+							"end",
+							{
+								"date": "0148/10/25",
+								"time": "00:00"
+							}
+						]
+					],
+					"icon": "",
+					"modified": 1605599065.1430225
+				},
+				{
+					"uuid": "a7d3b87f57e94bf4a67a86d2d255b756",
+					"type": "lifeTime",
+					"calType": "hijri",
+					"summary": "زندگانی امام موسی کاظم (ع)",
+					"description": "",
+					"rules": [
+						[
+							"start",
+							{
+								"date": "0128/02/07",
+								"time": "00:00"
+							}
+						],
+						[
+							"end",
+							{
+								"date": "0183/07/25",
+								"time": "00:00"
+							}
+						]
+					],
+					"icon": "",
+					"modified": 1605599065.144126
+				},
+				{
+					"uuid": "ede2840c8d624be9988f37f74b1faf7a",
+					"type": "lifeTime",
+					"calType": "hijri",
+					"summary": "زندگانی امام رضا (ع)",
+					"description": "",
+					"rules": [
+						[
+							"start",
+							{
+								"date": "0148/11/11",
+								"time": "00:00"
+							}
+						],
+						[
+							"end",
+							{
+								"date": "0203/02/30",
+								"time": "00:00"
+							}
+						]
+					],
+					"icon": "",
+					"modified": 1605599065.1451256
+				},
+				{
+					"uuid": "ed1dd534d6d540eea52f4e7dd6178aef",
+					"type": "lifeTime",
+					"calType": "hijri",
+					"summary": "زندگانی امام جواد (ع)",
+					"description": "",
+					"rules": [
+						[
+							"start",
+							{
+								"date": "0195/07/10",
+								"time": "00:00"
+							}
+						],
+						[
+							"end",
+							{
+								"date": "0219/11/30",
+								"time": "00:00"
+							}
+						]
+					],
+					"icon": "",
+					"modified": 1605599065.1461492
+				},
+				{
+					"uuid": "8034d0fca9b74bacbb435875135b01d7",
+					"type": "lifeTime",
+					"calType": "hijri",
+					"summary": "زندگانی امام محمد هادی (ع)",
+					"description": "",
+					"rules": [
+						[
+							"start",
+							{
+								"date": "0212/12/15",
+								"time": "00:00"
+							}
+						],
+						[
+							"end",
+							{
+								"date": "0254/07/03",
+								"time": "00:00"
+							}
+						]
+					],
+					"icon": "",
+					"modified": 1605599065.1471255
+				},
+				{
+					"uuid": "ebd48417cc934bc599b8f9c3bfb9019b",
+					"type": "lifeTime",
+					"calType": "hijri",
+					"summary": "زندگانی امام حسن عسگری",
+					"description": "",
+					"rules": [
+						[
+							"start",
+							{
+								"date": "0232/04/08",
+								"time": "00:00"
+							}
+						],
+						[
+							"end",
+							{
+								"date": "0260/05/08",
+								"time": "00:00"
+							}
+						]
+					],
+					"icon": "",
+					"modified": 1605599065.1480994
+				},
+				{
+					"uuid": "52233ae1f6d04ebdad90a106d4fb84e4",
+					"type": "lifeTime",
+					"calType": "hijri",
+					"summary": "زندگانی امام زمان (عج)",
+					"description": "",
+					"rules": [
+						[
+							"start",
+							{
+								"date": "0255/08/15",
+								"time": "00:00"
+							}
+						],
+						[
+							"end",
+							{
+								"date": "2000/01/01",
+								"time": "00:00"
+							}
+						]
+					],
+					"icon": "",
+					"modified": 1605599065.1491017
+				}
+			]
+		}
+	]
+}

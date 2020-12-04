@@ -11,7 +11,6 @@
 			"title": "مناسبت‌های خاص",
 			"calType": "gregorian",
 			"timeZoneEnable": false,
-			"timeZone": "Asia/Tehran",
 			"showInDCal": true,
 			"showInWCal": true,
 			"showInMCal": true,
